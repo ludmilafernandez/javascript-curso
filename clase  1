@@ -1,0 +1,21 @@
+<!DOCTYPE html>   
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <script>
+    //es un metodo de salida
+    document.write("Hola classe l'Oriol esta parlant");
+    //variable  var nom;  es un string porq tiene ""
+    var nom = "Ludmila";
+    //es un metodo de salida  DOCUMENTO.WRITE (en minuscula)
+    //tiene q ser " y no ' xq sino no funciona
+    //cierra con ;
+    document.write("Hola classe"); 
+   </script> 
+</body>
+</html>
